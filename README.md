@@ -20,9 +20,6 @@ stock_price_predictor/
 ├── stock_predictor.ipynb # Jupyter notebook with full code and analysis
 └── README.md # This file
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -75,10 +72,6 @@ Day +2: $187.52
 Day +3: $187.61
 Day +4: $187.70
 Day +5: $187.78
-
-yaml
-Copy
-Edit
 
 ---
 
